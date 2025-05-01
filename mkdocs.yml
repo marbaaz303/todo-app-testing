@@ -1,0 +1,5 @@
+site_name: Smart To-Do App Docs
+nav:
+  - Home: index.md
+theme:
+  name: readthedocs
